@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "jumpscare" "\0"
+            VALUE "CompanyName", "id.grounded.jamscare" "\0"
+            VALUE "FileDescription", "jamscare" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "jumpscare" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "jumpscare.exe" "\0"
-            VALUE "ProductName", "jumpscare" "\0"
+            VALUE "InternalName", "jamscare" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 id.grounded.jamscare. All rights reserved." "\0"
+            VALUE "OriginalFilename", "jamscare.exe" "\0"
+            VALUE "ProductName", "jamscare" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

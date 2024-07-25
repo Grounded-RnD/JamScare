@@ -1,6 +1,6 @@
 {
-    "name": "jumpscare",
-    "short_name": "jumpscare",
+    "name": "jamscare",
+    "short_name": "jamscare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
