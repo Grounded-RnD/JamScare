@@ -32,7 +32,7 @@ class home_page extends StatelessWidget {
                     child: CustomPaint(
                       size: Size(200, 100),
                       painter: CustomHalfCirclePainter(
-                        data: 10,
+                        data: 50,
                         backgroundColor: Color.fromARGB(
                             52, 163, 78, 142), // Contoh warna background
                         dataColor: Color(
